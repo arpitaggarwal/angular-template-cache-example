@@ -5,7 +5,7 @@
 	<artifactId>angular-template-cache-example</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
-	<name>webapp</name>
+	<name>angular-template-cache-example</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<spring.version>4.2.5.RELEASE</spring.version>
